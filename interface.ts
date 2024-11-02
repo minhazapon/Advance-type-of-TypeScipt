@@ -10,15 +10,12 @@
         country: string
     }
     
-
     const info: ObjType = {
-
 
         name: 'minhazul abedin apon',
         number: 1950374409,
         address: 'jheniadah',
         country: 'bangladesh'
-
     }
 
 
