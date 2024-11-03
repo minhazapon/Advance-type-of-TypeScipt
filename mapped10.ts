@@ -35,13 +35,4 @@
     console.log(all.skill1, all.skill2, all.skill3, all.skill4, all.skill5, all.skill6)
 
 
-
-
-
-
-
-
-
-
-
 }
