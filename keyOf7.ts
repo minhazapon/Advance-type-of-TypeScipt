@@ -16,8 +16,7 @@
        }
 
        type allInfo = keyof keydataZ 
-       console.log(allKey)
-
+    
 
  
 
